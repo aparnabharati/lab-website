@@ -1,1 +1,1 @@
-Sitemap: https://aparnabharati.github.io/lab-website/sitemap.xml
+Sitemap: http://seevi-lab.org/sitemap.xml
