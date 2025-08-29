@@ -5,6 +5,6 @@
 
   # aparnabharati's Website
 
-  Visit **[aparnabharati.github.io/lab-website](https://aparnabharati.github.io/lab-website)** 🚀
+  Visit **[seevi-lab.org](http://seevi-lab.org)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
