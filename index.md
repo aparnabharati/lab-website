@@ -1,7 +1,7 @@
 ---
 ---
 
-# aparnabharati's Website
+# SeeVi Lab Website
 
 An engaging 1-3 sentence description of your lab.
 
