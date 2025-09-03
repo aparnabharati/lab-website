@@ -1,1 +1,1 @@
-Sitemap: http://www.seevi-lab.org/sitemap.xml
+Sitemap: https://www.seevi-lab.org/sitemap.xml
