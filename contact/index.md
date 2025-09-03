@@ -2,14 +2,12 @@
 title: Contact
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: 
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Individuals interested in the research conducted at the SeeVi Lab are encouraged to contact Dr. Aparna Bharati. Prospective students should include a description of their relevant experience, specific research interests, and motivations for pursuing graduate studies and research in their correspondence.
 
 {%
   include button.html
