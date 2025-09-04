@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The SeeVi Lab is driven by the dedication and creativity of its research team, working under the guidance of Dr. Aparna Bharati. Each member of the lab contributes unique expertise and perspectives, with accomplishments spanning peer-reviewed publications, conference presentations, and collaborative projects in leading areas of computer vision. Their ongoing research explores a range of topics at the intersection of visual understanding, machine learning, and real-world applications, reflecting the lab’s commitment to advancing both fundamental science and impactful technology.
 
 {% include section.html %}
 
