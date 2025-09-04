@@ -7,6 +7,7 @@ aliases:
   - 
 links:
   home-page: https://www.linkedin.com/in/qiuyutang/
+  email-id: qit220@lehigh.edu
   orcid: 
 ---
 
