@@ -44,6 +44,11 @@
 
     {% if member.affiliation %}
       <span class="portrait-affiliation">
+        {{ member.role }}
+      </span>
+    {% endif %}
+    {% if member.affiliation %}
+      <span class="portrait-affiliation">
         {{ member.affiliation }}
       </span>
     {% endif %}
