@@ -11,7 +11,7 @@ The SeeVi Lab is driven by the dedication and creativity of its research team, w
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" %}
+{% include list.html data="members/aparna-bharati" component="portrait" %}
 <!-->
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 -->
