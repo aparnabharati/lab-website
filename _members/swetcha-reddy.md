@@ -7,7 +7,7 @@ aliases:
   - 
 links:
   home-page: 
-  email-id: swt224@lehigh.edu
+  email: swt224@lehigh.edu
   orcid: 
 ---
 

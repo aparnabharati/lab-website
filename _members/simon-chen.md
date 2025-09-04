@@ -7,7 +7,7 @@ aliases:
   - 
 links:
   home-page: 
-  email-id: sic825@lehigh.edu
+  email: sic825@lehigh.edu
   orcid: 
 ---
 

@@ -7,7 +7,7 @@ aliases:
   - 
 links:
   home-page: https://www.aparnabharati.com/
-  email-id: apb220@lehigh.edu
+  email: apb220@lehigh.edu
   orcid: 
 ---
 
