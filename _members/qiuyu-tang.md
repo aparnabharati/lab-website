@@ -1,6 +1,6 @@
 ---
 name: Qiuyu Tang
-image: images/photo.jpg
+image: images/qiuyu.jpg
 role: PhD Student / Researcher
 affiliation: Lehigh University
 aliases:

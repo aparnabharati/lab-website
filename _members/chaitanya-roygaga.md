@@ -1,6 +1,6 @@
 ---
 name: Chaitanya Roygaga
-image: images/photo.jpg
+image: images/chaitanya.jpg
 role: PhD Student / Researcher
 affiliation: Lehigh University
 aliases:
