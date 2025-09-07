@@ -8,7 +8,7 @@ aliases:
 links:
   home-page: https://qiuyutang.com/
   email: qit220@lehigh.edu
-  orcid: 
+  orcid: 0009-0004-5835-3471
 ---
 
 Qiuyu Tang is a Ph.D. student in Computer Science and Engineering at Lehigh University, under the supervision of Dr. Aparna Bharati. Her research interests include media forensics, origin protection, and trustworthy AI.
