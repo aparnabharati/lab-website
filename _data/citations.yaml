@@ -1,0 +1,11 @@
+
+- id: https://doi.org/10.1109/TIFS.2021.3050061
+  title: Transformation-Aware Embeddings for Image Provenance
+  authors:
+  - Aparna Bharati
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-25'
+  link: https://doi.org/g9rfr3
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
