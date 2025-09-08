@@ -42,9 +42,7 @@ for plugin in plugins:
     files = Path.cwd().glob(f"_data/{plugin.stem}*.*")
     files = list(filter(lambda p: p.suffix in [".yaml", ".yml", ".json"], files))
 
-    log(f"Found {len(files)} {plugin.stem}* data file(s)", indent=1)
-    print(files)
-    
+    log(f"Found {len(files)} {plugin.stem}* data file(s)", indent=1)    
 
     # loop through data files
     for file in files:
