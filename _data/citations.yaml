@@ -45,3 +45,17 @@
   link: https://doi.org/g92t8v
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1145/3733102.3733148
+  title: Implications of Neural Compression to Scientific Images
+  authors:
+  - "Jo\xE3o Phillipe Cardenuto"
+  - Joshua Krinsky
+  - Lucas Nogueira
+  - Aparna Bharati
+  - Daniel Moreira
+  publisher: Proceedings of the ACM Workshop on Information Hiding and Multimedia
+    Security
+  date: '2025-06-17'
+  link: https://doi.org/g92wpf
+  plugin: sources.py
+  file: sources.yaml
