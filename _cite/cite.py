@@ -44,7 +44,7 @@ for plugin in plugins:
 
     log(f"Found {len(files)} {plugin.stem}* data file(s)", indent=1)
     print(files)
-    print(ll)
+    
 
     # loop through data files
     for file in files:
