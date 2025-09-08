@@ -89,6 +89,147 @@
   link: https://doi.org/g92wq6
   plugin: sources.py
   file: sources.yaml
+- id: arxiv:2212.04665
+  title: A Computer Vision Method for Estimating Velocity from Jumps
+  authors:
+  - Soumyadip Roy
+  - Chaitanya Roygaga
+  - Nathaniel Blanchard
+  - Aparna Bharati
+  publisher: arXiv
+  date: '2022-12-12'
+  link: https://arxiv.org/abs/2212.04665
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1609/aaai.v37i13.26942
+  title: 'IdProv: Identity-Based Provenance for Synthetic Image Generation (Student
+    Abstract)'
+  authors:
+  - Harshil Bhatia
+  - Jaisidh Singh
+  - Gaurav Sangwan
+  - Aparna Bharati
+  - Richa Singh
+  - Mayank Vatsa
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2023-06-26'
+  link: https://doi.org/g92w24
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/micmic/ozad067.359
+  title: Development of an Automated Reciprocal-Space Navigator in a JEOL FEMTUS Platform
+  authors:
+  - Surui Huang
+  - Brian Chen
+  - Aparna Bharati
+  - Martin P Harmer
+  - Masashi Watanabe
+  publisher: Microscopy and Microanalysis
+  date: '2023-07-22'
+  link: https://doi.org/g92w25
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2309.15381
+  title: Subjective Face Transform using Human First Impressions
+  authors:
+  - Chaitanya Roygaga
+  - Joshua Krinsky
+  - Kai Zhang
+  - Kenny Kwok
+  - Aparna Bharati
+  publisher: arXiv
+  date: '2025-03-19'
+  link: https://arxiv.org/abs/2309.15381
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/wacv57701.2024.00468
+  title: 'SynthProv: Interpretable Framework for Profiling Identity Leakage'
+  authors:
+  - Jaisidh Singh
+  - Harshil Bhatia
+  - Mayank Vatsa
+  - Richa Singh
+  - Aparna Bharati
+  publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+  date: '2024-01-03'
+  link: https://doi.org/g92w26
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICIP51287.2024.10648063
+  title: Exploring Saliency Bias in Manipulation Detection
+  authors:
+  - Joshua Krinsky
+  - Alan Bettis
+  - Qiuyu Tang
+  - Daniel Moreira
+  - Aparna Bharati
+  publisher: 2024 IEEE International Conference on Image Processing (ICIP)
+  date: '2024-10-27'
+  link: https://doi.org/g92w27
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2403.20312
+  title: 'Learn "No" to Say "Yes" Better: Improving Vision-Language Models via Negations'
+  authors:
+  - Jaisidh Singh
+  - Ishaan Shrivastava
+  - Mayank Vatsa
+  - Richa Singh
+  - Aparna Bharati
+  publisher: arXiv
+  date: '2025-03-13'
+  link: https://arxiv.org/abs/2403.20312
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/IJCB62174.2024.10744512
+  title: A Relative Data Diversity Measure for Synthetic Face Images
+  authors:
+  - Cancan Zhang
+  - Chaitanya Roygaga
+  - Aparna Bharati
+  publisher: 2024 IEEE International Joint Conference on Biometrics (IJCB)
+  date: '2024-09-15'
+  link: https://doi.org/g92w28
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2502.09645
+  title: 'From No to Know: Taxonomy, Challenges, and Opportunities for Negation Understanding
+    in Multimodal Foundation Models'
+  authors:
+  - Mayank Vatsa
+  - Aparna Bharati
+  - Surbhi Mittal
+  - Richa Singh
+  publisher: arXiv
+  date: '2025-02-17'
+  link: https://arxiv.org/abs/2502.09645
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/WACV61041.2025.00777
+  title: "Learning the Power of \u201CNo\u201D: Foundation Models with Negations"
+  authors:
+  - Jaisidh Singh
+  - Ishaan Shrivastava
+  - Mayank Vatsa
+  - Richa Singh
+  - Aparna Bharati
+  publisher: 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+  date: '2025-02-26'
+  link: https://doi.org/g92w29
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/icip55913.2025.11084494
+  title: Is Perturbation-Based Image Protection Disruptive to Image Editing?
+  authors:
+  - Qiuyu Tang
+  - Bonor Ayambem
+  - Mooi Choo Chuah
+  - Aparna Bharati
+  publisher: 2025 IEEE International Conference on Image Processing (ICIP)
+  date: '2025-09-14'
+  link: https://doi.org/g92w3b
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3733102.3733148
   title: Implications of Neural Compression to Scientific Images
   authors:
