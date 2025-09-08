@@ -5,7 +5,7 @@
 
 The SeeVi Lab, under the direction of Dr. Aparna Bharati, is dedicated to advancing the frontiers of computer vision research. Our mission is to design computational methods that enable machines to analyze, interpret, and reason about visual information with accuracy and robustness. By bridging fundamental theory with real-world applications, our work addresses challenges that lie at the intersection of artificial intelligence, imaging sciences, and human-centered technologies.
 
-The lab fosters a vibrant and collaborative research environment, currently comprising three doctoral students and two master’s students. Together, we pursue innovative projects that not only contribute to the scientific foundations of visual computing but also explore its transformative potential in diverse domains. Through rigorous inquiry, creativity, and cross-disciplinary collaboration, the SeeVi Lab seeks to develop impactful solutions that expand the capabilities of machine perception and advance the state of the field.
+The lab fosters a vibrant and collaborative research environment, currently comprising three doctoral students and two master’s students. Together, we pursue innovative projects that not only contribute to the scientific foundations of visual computing but also explore its transformative potential in diverse domains. Through rigorous inquiry, creativity, and cross-disciplinary collaboration, the SeeVi Lab seeks to develop impactful solutions that expand the capabilities of machine perception and advance the state of the field. 
 
 {% include section.html %}
 
