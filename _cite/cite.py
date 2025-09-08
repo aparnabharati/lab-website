@@ -29,7 +29,7 @@ log("Compiling sources")
 sources = []
 
 # in-order list of plugins to run
-plugins = ["sources"]
+plugins = ["sources", "pubmed"]
 
 # loop through plugins
 for plugin in plugins:
