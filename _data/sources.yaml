@@ -1,3 +1,17 @@
-
 - id: https://doi.org/10.1109/TIFS.2021.3050061
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  date: 2020-12-4
   image: https://www.google.com/url?sa=i&url=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-981-16-7621-5_15&psig=AOvVaw3LpTDMGew4I_IYZvrCyJH8&ust=1757367520680000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJDYhK7Ox48DFQAAAAAdAAAAABAE
+  buttons:
+    - type: manubot
+      link: https://greenelab.github.io/meta-review/
+    - type: source
+      text: Manuscript Source
+      link: https://github.com/greenelab/meta-review
+    - type: website
+      link: http://manubot.org/
+  tags:
+    - open science
+    - collaboration
+  repo: greenelab/meta-review
