@@ -1,6 +1,6 @@
 ---
 name: Aparna Bharati
-image: images/aparna.jpg
+image: images/aparna.png
 role: Advisor / Principal Investigator
 affiliation: Lehigh University
 aliases:
