@@ -1,0 +1,20 @@
+# recent lab news, shown in reverse-chronological order
+# add new entries here as they happen; "link" is optional
+
+- date: '2026-08-01'
+  title: "SeeVi Lab is moving to Colorado State University"
+
+- date: '2026-02-28'
+  title: "SeeVi Lab organizes the VALED workshop at WACV 2026"
+
+- date: '2025-09-14'
+  title: "Our paper on perturbation-based image protection is accepted to ICIP 2025"
+  link: https://doi.org/g92w3b
+
+- date: '2025-06-17'
+  title: "Our paper on neural compression of scientific images is accepted to the ACM IH&MMSec Workshop"
+  link: https://doi.org/g92wpf
+
+- date: '2025-02-26'
+  title: "Our paper on foundation models with negations is accepted to WACV 2025"
+  link: https://doi.org/g92w29
