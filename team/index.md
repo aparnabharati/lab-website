@@ -13,6 +13,9 @@ The SeeVi Lab is driven by the dedication and creativity of its research team, w
 
 {% include list.html data="members" component="portrait" %}
 
+{% comment %}
+  placeholder text and photo grid, disabled until real content is ready
+
 {% include section.html background="images/background.jpg" dark=true %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -30,3 +33,4 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+{% endcomment %}
