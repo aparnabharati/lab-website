@@ -27,24 +27,23 @@
 - id: doi:10.1109/icip55913.2025.11084494
 - id: doi:10.1145/3733102.3733148
 
-# --- added manually; no DOI/arXiv id supplied yet ---
-# Once you have a DOI or arXiv id, add it as `id:` on the entry and delete the
-# manual title/authors/publisher fields - Manubot will then fetch them itself.
+# Manual title/authors/publisher are kept as overrides even where an id exists,
+# so the entry survives a failed Manubot fetch (see the blanked ICIP entry).
 
-- title: Understanding Human-Like Biases in VLMs via Subjective Face Analytics
+- id: doi:10.1109/WACV61042.2026.00058
+  title: Understanding Human-Like Biases in VLMs via Subjective Face Analytics
   authors:
     - Chaitanya Roygaga
     - Aparna Bharati
   publisher: 2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
-  date: '2026-03-01'   # TODO confirm exact date
 
-- title: 'StyleProtect: Safeguarding Artistic Identity in Finetuned Diffusion Models'
+- id: arxiv:2509.13711
+  title: 'StyleProtect: Safeguarding Artistic Identity in Finetuned Diffusion Models'
   authors:
     - Qiuyu Tang
     - Joshua Krinsky
     - Aparna Bharati
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2026-06-01'   # TODO confirm exact date
 
 - title: Watermarks vs. Perturbations for Preventing AI-Based Style Editing
   authors:

@@ -13,7 +13,13 @@ Our peer-reviewed publications span image forensics, provenance analysis, and im
 
 ## Highlighted
 
-{% include citation.html lookup="Is Perturbation-Based Image Protection Disruptive to Image Editing?" style="rich" %}
+Recent first-authored work from our doctoral researchers.
+
+{% include citation.html lookup="Understanding Human-Like Biases in VLMs via Subjective Face Analytics" style="rich" %}
+
+{% include citation.html lookup="StyleProtect: Safeguarding Artistic Identity in Finetuned Diffusion Models" style="rich" %}
+
+{% include citation.html lookup="Exploring Saliency Bias in Manipulation Detection" style="rich" %}
 
 {% include section.html %}
 
