@@ -244,22 +244,26 @@
   link: https://doi.org/g92wpf
   plugin: sources.py
   file: sources.yaml
-- title: Understanding Human-Like Biases in VLMs via Subjective Face Analytics
+- id: doi:10.1109/WACV61042.2026.00058
+  title: Understanding Human-Like Biases in VLMs via Subjective Face Analytics
   authors:
   - Chaitanya Roygaga
   - Aparna Bharati
   publisher: 2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
-  date: '2026-03-01'
+  date: '2026-03-06'
+  link: https://doi.org/hcjr9r
   plugin: sources.py
   file: sources.yaml
-- title: 'StyleProtect: Safeguarding Artistic Identity in Finetuned Diffusion Models'
+- id: arxiv:2509.13711
+  title: 'StyleProtect: Safeguarding Artistic Identity in Finetuned Diffusion Models'
   authors:
   - Qiuyu Tang
   - Joshua Krinsky
   - Aparna Bharati
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
     Recognition (CVPR)
-  date: '2026-06-01'
+  date: '2025-09-18'
+  link: https://arxiv.org/abs/2509.13711
   plugin: sources.py
   file: sources.yaml
 - title: Watermarks vs. Perturbations for Preventing AI-Based Style Editing
