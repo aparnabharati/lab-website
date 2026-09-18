@@ -7,13 +7,15 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Individuals interested in the research conducted at the SeeVi Lab are encouraged to contact Dr. Aparna Bharati. Prospective students should include a description of their relevant experience, specific research interests, and motivations for pursuing graduate studies and research in their correspondence.
+Individuals interested in the research conducted at the SeeVi Lab are encouraged to contact Dr. Aparna Bharati. The lab is based in the Department of Computer Science at Colorado State University and welcomes inquiries from prospective PhD and master's students, as well as CSU undergraduates seeking research experience.
+
+Prospective graduate students should apply through the Department of Computer Science and may mention Dr. Bharati's name in their application. When reaching out by email, please include a brief description of your background and relevant experience, the research topics that interest you most, and what draws you to work in computer vision and media forensics.
 
 {%
   include button.html
   type="email"
-  text="apb220@lehigh.edu"
-  link="apb220@lehigh.edu"
+  text="aparna.bharati@colostate.edu"
+  link="aparna.bharati@colostate.edu"
 %}
 <!-- 
 {%
