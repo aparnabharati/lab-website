@@ -2,16 +2,16 @@
 name: Chaitanya Roygaga
 image: images/chaitanya.jpg
 role: PhD Student / Researcher
-affiliation: Lehigh University
+affiliation: Colorado State University
 aliases:
   - 
 links:
   home-page: https://www.linkedin.com/in/chaitanyaroygaga/
-  email: crr221@lehigh.edu
+  email: chaitanya.roygaga@colostate.edu
   orcid: 0009-0008-6463-5941
 ---
 
-Chaitanya Roygaga is a passionate computer vision researcher and current Ph.D. student in Computer Science and Engineering at Lehigh University, working under the guidance of Dr. Aparna Bharati. His research centers on deep learning and facial analytics, where he advances models that predict subjective human attributes — such as trustworthiness — and develops semantic face editing methods that merge technical innovation with nuanced human perception.
+Chaitanya Roygaga is a passionate computer vision researcher and current Ph.D. student in Computer Science at Colorado State University, working under the guidance of Dr. Aparna Bharati. His research centers on deep learning and facial analytics, where he advances models that predict subjective human attributes — such as trustworthiness — and develops semantic face editing methods that merge technical innovation with nuanced human perception.
 
 Chaitanya thrives in collaborative and multidisciplinary teams. As a Multimodal AI Intern at Trivent Systems, he has contributed to the development and prototyping of algorithms that enhance their current medico-legal AI products. Previously, his work with Dr. Nathaniel Blanchard’s group at Colorado State University explored athlete performance evaluation and neural architecture search, tackling body pose estimation and resource optimization on hardware platforms.d
 
