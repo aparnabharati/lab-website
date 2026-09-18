@@ -1,14 +1,18 @@
-# citation metadata for the template itself
+# citation metadata for the SeeVi Lab website
+# https://citation-file-format.github.io/
 
-title: "Lab Website Template"
-version: 1.3.7
-date-released: 2025-07-31
-url: "https://github.com/greenelab/lab-website-template"
-authors:
-  - family-names: "Rubinetti"
-    given-names: "Vincent"
-    orcid: "https://orcid.org/0000-0002-4655-3773"
-  - family-names: "Greene"
-    given-names: "Casey"
-    orcid: "https://orcid.org/0000-0001-8713-9213"
 cff-version: 1.2.0
+message: "If you reference this website, please cite it as below."
+title: "SeeVi Lab Website"
+abstract: "Website of the SeeVi Lab, Department of Computer Science, Colorado State University."
+type: software
+url: "https://www.seevi-lab.org"
+repository-code: "https://github.com/aparnabharati/lab-website"
+license: BSD-3-Clause
+date-released: 2026-09-17
+authors:
+  - family-names: "Bharati"
+    given-names: "Aparna"
+    affiliation: "Colorado State University"
+    # TODO: add correct ORCID - the previous value belonged to the template author
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"

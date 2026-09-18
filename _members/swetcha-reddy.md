@@ -1,6 +1,6 @@
 ---
 name: Swetcha Reddy Tukkani
-image: images/swetcha.png
+image: images/swetcha.jpg
 role: MS Student / Researcher
 affiliation: Lehigh University
 group: alumni

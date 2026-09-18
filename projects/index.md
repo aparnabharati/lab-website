@@ -1,8 +1,9 @@
 ---
 title: Projects
-nav:
-  order: 2
-  tooltip: Software, datasets, and more
+# hidden from nav for v1 - restore the nav block below when real projects are ready
+# nav:
+#   order: 2
+#   tooltip: Software, datasets, and more
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects

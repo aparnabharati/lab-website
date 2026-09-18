@@ -9,8 +9,9 @@ proofer: false
 # site social media and other links
 links:
   email: aparna.bharati@colostate.edu
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  # TODO: these were template defaults belonging to the template author - replace with Aparna's real IDs
+  # orcid: 0000-0001-8713-9213
+  # google-scholar: ETJoidYAAAAJ
   github: aparnabharati
   twitter: aparnabharati
 
