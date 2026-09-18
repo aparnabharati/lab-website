@@ -15,6 +15,14 @@ The SeeVi Lab is driven by the dedication and creativity of its research team, w
 
 {% include section.html %}
 
+{%
+  include figure.html
+  image="images/lab-social.jpg"
+  caption="The SeeVi Lab outside the office."
+%}
+
+{% include section.html %}
+
 ## Alumni
 
 {% include list.html data="members" component="portrait" filter="group == 'alumni'" %}

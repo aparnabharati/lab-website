@@ -51,7 +51,7 @@ Led by Dr. Aparna Bharati, our doctoral and master's students bring expertise in
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lab-group.jpg"
   link="team"
   title="Our Team"
   text=text
