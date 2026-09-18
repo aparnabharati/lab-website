@@ -2,16 +2,16 @@
 name: Qiuyu Tang
 image: images/qiuyu.jpg
 role: PhD Student / Researcher
-affiliation: Lehigh University
+affiliation: Colorado State University
 aliases:
   - 
 links:
   home-page: https://qiuyutang.com/
-  email: qit220@lehigh.edu
+  email: q.tang@colostate.edu
   orcid: 0009-0004-5835-3471
 ---
 
-Qiuyu Tang is a Ph.D. student in Computer Science and Engineering at Lehigh University, under the supervision of Dr. Aparna Bharati. Her research interests include media forensics, origin protection, and trustworthy AI.
+Qiuyu Tang is a Ph.D. student in Computer Science at Colorado State University, under the supervision of Dr. Aparna Bharati. Her research interests include media forensics, origin protection, and trustworthy AI.
 
 Qiuyu is an AI researcher and developer with expertise in Generative AI, Deep Learning, and Computer Vision. She’s skilled in machine learning, adversarial robustness, and AI security, with hands-on experience in diffusion models, transformers, and multi-modal AI. She’s proficient in Python, PyTorch, and TensorFlow, with a track record of publishing research and building AI-driven projects, including deepfake detection and adversarial attacks. She has strong problem-solving skills, full-stack development experience, and a passion for innovation and collaboration. 
 
