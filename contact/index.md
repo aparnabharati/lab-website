@@ -17,18 +17,39 @@ Prospective graduate students should apply through the Department of Computer Sc
   text="aparna.bharati@colostate.edu"
   link="aparna.bharati@colostate.edu"
 %}
+
+{% include section.html %}
+
+{% capture col1 %}
+
+### Office
+
+Room 415  
+Computer Science Building  
+1100 Center Avenue Mall  
+Fort Collins, CO 80523
+
+{% endcapture %}
+
+{% capture col2 %}
+
+### Mailing Address
+
+Computer Science Department  
+1873 Campus Delivery  
+Colorado State University  
+Fort Collins, CO 80523-1873
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
+
 <!-- 
 {%
   include button.html
   type="phone"
   text="(555) 867-5309"
   link="+1-555-867-5309"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
 %}
 -->
 

@@ -3,6 +3,7 @@ name: Simon Chen
 image: images/simon.JPG
 role: MS Student / Researcher
 affiliation: Lehigh University
+group: alumni
 aliases:
   - 
 links:
