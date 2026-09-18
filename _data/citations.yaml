@@ -156,15 +156,10 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICIP51287.2024.10648063
-  title: Exploring Saliency Bias in Manipulation Detection
-  authors:
-  - Joshua Krinsky
-  - Alan Bettis
-  - Qiuyu Tang
-  - Daniel Moreira
-  - Aparna Bharati
-  publisher: 2024 IEEE International Conference on Image Processing (ICIP)
-  date: '2024-10-27'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/g92w27
   plugin: sources.py
   file: sources.yaml
