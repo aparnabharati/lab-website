@@ -10,9 +10,46 @@
 - id: arxiv:2309.15381
 - id: doi:10.1109/wacv57701.2024.00468
 - id: doi:10.1109/ICIP51287.2024.10648063
+  # manual metadata: Manubot returned blank fields for this DOI
+  title: Exploring Saliency Bias in Manipulation Detection
+  authors:
+    - Joshua Krinsky
+    - Alan Bettis
+    - Qiuyu Tang
+    - Daniel Moreira
+    - Aparna Bharati
+  publisher: 2024 IEEE International Conference on Image Processing (ICIP)
+  date: '2024-10-27'
 - id: arxiv:2403.20312
 - id: doi:10.1109/IJCB62174.2024.10744512
 - id: arxiv:2502.09645
 - id: doi:10.1109/WACV61041.2025.00777
 - id: doi:10.1109/icip55913.2025.11084494
 - id: doi:10.1145/3733102.3733148
+
+# --- added manually; no DOI/arXiv id supplied yet ---
+# Once you have a DOI or arXiv id, add it as `id:` on the entry and delete the
+# manual title/authors/publisher fields - Manubot will then fetch them itself.
+
+- title: Understanding Human-Like Biases in VLMs via Subjective Face Analytics
+  authors:
+    - Chaitanya Roygaga
+    - Aparna Bharati
+  publisher: 2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+  date: '2026-03-01'   # TODO confirm exact date
+
+- title: 'StyleProtect: Safeguarding Artistic Identity in Finetuned Diffusion Models'
+  authors:
+    - Qiuyu Tang
+    - Joshua Krinsky
+    - Aparna Bharati
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2026-06-01'   # TODO confirm exact date
+
+- title: Watermarks vs. Perturbations for Preventing AI-Based Style Editing
+  authors:
+    - Qiuyu Tang
+    - Aparna Bharati
+  publisher: The 1st Workshop on GenAI Watermarking
+  date: '2025-01-01'   # TODO confirm exact date
+
