@@ -10,8 +10,7 @@ proofer: false
 links:
   email: aparna.bharati@colostate.edu
   linkedin: abharati
-  # TODO: template default, replace with Aparna's real Scholar ID
-  # google-scholar: ETJoidYAAAAJ
+  google-scholar: 2yVgYPAAAAAJ
   github: aparnabharati
   twitter: aparnabharati
 
@@ -71,5 +70,4 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
-  - projects
   - blog
