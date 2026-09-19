@@ -8,6 +8,7 @@
 - id: doi:10.1609/aaai.v37i13.26942
 - id: doi:10.1093/micmic/ozad067.359
 - id: arxiv:2309.15381
+  image: images/paper-face-transform.jpg
 - id: doi:10.1109/wacv57701.2024.00468
 - id: doi:10.1109/ICIP51287.2024.10648063
   # manual metadata: Manubot returned blank fields for this DOI
@@ -31,6 +32,7 @@
 # so the entry survives a failed Manubot fetch (see the blanked ICIP entry).
 
 - id: doi:10.1109/WACV61042.2026.00058
+  image: images/paper-vlm-biases.jpg
   title: Understanding Human-Like Biases in VLMs via Subjective Face Analytics
   authors:
     - Chaitanya Roygaga

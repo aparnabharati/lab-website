@@ -1,61 +1,30 @@
 # Research themes of the SeeVi Lab.
-# `link` points at a representative publication; swap for a repo or project
-# page when one exists. `image` currently falls back to a placeholder -
-# a figure from the relevant paper would work much better here.
+# Titles only for now - descriptions intentionally omitted.
+# `image` still points at the generic placeholder; a figure per theme would help.
 
 - title: Provenance and Attribution
-  subtitle: Tracing where visual content came from
   group: featured
   image: images/photo.jpg
   link: research
-  description: Reconstructing the relationships between images that share a common origin, and attributing generated content back to the models and identities behind it. Work in this area spans transformation-aware embeddings, large-scale provenance retrieval, and attribution for synthetic faces.
-  tags:
-    - provenance
-    - attribution
 
 - title: Asset Protection
-  subtitle: Defending artistic identity and image ownership
   group: featured
   image: images/photo.jpg
   link: research
-  description: Methods that let creators protect their work before it is scraped, finetuned on, or edited. We study adversarial perturbations and watermarking as competing strategies, and examine how well each survives contact with modern diffusion pipelines.
-  tags:
-    - protection
-    - generative-models
 
 - title: Subjective Visual Perception
-  subtitle: Modeling how people, not just machines, read a face
   group: featured
   image: images/photo.jpg
   link: research
-  description: Human judgements about faces are fast, consistent, and frequently wrong. We model these first impressions directly, building transforms that manipulate perceived traits and measuring where machine perception inherits the same subjective structure.
-  tags:
-    - perception
-    - faces
 
 - title: Bias and Explainability in Image Forensics
-  subtitle: Understanding what detectors actually look at
   image: images/photo.jpg
   link: research
-  description: Forensic models inherit biases from their data and from human visual attention. We probe saliency bias in manipulation detection, demographic effects in retouching detection, and what makes a forensic decision explainable to the person who has to act on it.
-  tags:
-    - forensics
-    - fairness
 
 - title: Remote Physiological Sensing
-  subtitle: Reading health signals from ordinary video
   image: images/photo.jpg
   link: research
-  description: Extracting physiological signal from video captured on everyday cameras, using remote photoplethysmography to estimate well-being without contact sensors. The same signal is a forensic cue, since synthetic faces do not carry a plausible pulse.
-  tags:
-    - rppg
-    - health
 
 - title: Reasoning in Vision-Language Models
-  subtitle: Teaching multimodal models what is not there
   image: images/photo.jpg
   link: research
-  description: Vision-language models handle affirmation well and negation badly. We study why the failure is so consistent, and develop training and evaluation approaches that make these models reason about absence as reliably as they reason about presence.
-  tags:
-    - vlm
-    - reasoning
