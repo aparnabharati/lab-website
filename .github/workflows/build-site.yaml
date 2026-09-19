@@ -26,6 +26,12 @@ jobs:
 
       - name: Checkout branch contents
         uses: actions/checkout@v4
+        with:
+          # build the CURRENT tip of main, not the commit that triggered this run.
+          # update-citations runs first and commits a new _data/citations.yaml;
+          # without this, the build compiles the pre-update tree and every
+          # citation change is deployed one push late.
+          ref: main
 
       - name: Install Ruby packages
         uses: ruby/setup-ruby@v1

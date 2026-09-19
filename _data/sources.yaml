@@ -40,6 +40,8 @@
   publisher: 2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
 
 - id: arxiv:2509.13711
+  # Manubot returns the arXiv submission date (2025-09-18); this is CVPR 2026
+  date: '2026-06-01'   # TODO confirm exact date
   title: 'StyleProtect: Safeguarding Artistic Identity in Finetuned Diffusion Models'
   authors:
     - Qiuyu Tang
@@ -60,3 +62,17 @@
       text: OpenReview PDF
       link: https://openreview.net/pdf?id=mRCXybDMF6
 
+- title: 'Shades of Generalization: Diversity Aware Open Set Deepfake Detection'
+  authors:
+    - Swetcha Reddy Tukkani
+    - Aparna Bharati
+  publisher: 2026 IEEE 20th International Conference on Automatic Face and Gesture Recognition (FG)
+  date: '2026-05-01'   # TODO confirm exact date
+
+- title: 'Right Looks, Wrong Reasons: Compositional Fidelity in Text-to-Image Generation'
+  authors:
+    - Mayank Vatsa
+    - Aparna Bharati
+    - Richa Singh
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2026-03-01'   # TODO confirm exact date
