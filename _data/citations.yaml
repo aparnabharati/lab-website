@@ -272,5 +272,10 @@
   - Aparna Bharati
   publisher: The 1st Workshop on GenAI Watermarking
   date: '2025-01-01'
+  link: https://openreview.net/pdf?id=mRCXybDMF6
+  buttons:
+  - type: paper
+    text: OpenReview PDF
+    link: https://openreview.net/pdf?id=mRCXybDMF6
   plugin: sources.py
   file: sources.yaml
