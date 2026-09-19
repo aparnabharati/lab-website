@@ -3,12 +3,13 @@ name: Qiuyu Tang
 image: images/qiuyu.jpg
 role: PhD Student / Researcher
 affiliation: Colorado State University
+group: phd
 aliases:
   - 
 links:
   home-page: https://qiuyutang.com/
   email: q.tang@colostate.edu
-  orcid: 0009-0004-5835-3471
+  linkedin: qiuyutang
 ---
 
 Qiuyu Tang is a Ph.D. student in Computer Science at Colorado State University, under the supervision of Dr. Aparna Bharati. Her research interests include media forensics, origin protection, and trustworthy AI.

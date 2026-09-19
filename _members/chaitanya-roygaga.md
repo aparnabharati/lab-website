@@ -3,12 +3,13 @@ name: Chaitanya Roygaga
 image: images/chaitanya.jpg
 role: PhD Student / Researcher
 affiliation: Colorado State University
+group: phd
 aliases:
   - 
 links:
-  home-page: https://www.linkedin.com/in/chaitanyaroygaga/
+  home-page: 
   email: chaitanya.roygaga@colostate.edu
-  orcid: 0009-0008-6463-5941
+  linkedin: chaitanyaroygaga
 ---
 
 Chaitanya Roygaga is a passionate computer vision researcher and current Ph.D. student in Computer Science at Colorado State University, working under the guidance of Dr. Aparna Bharati. His research centers on deep learning and facial analytics, where he advances models that predict subjective human attributes — such as trustworthiness — and develops semantic face editing methods that merge technical innovation with nuanced human perception.

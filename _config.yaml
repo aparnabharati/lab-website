@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: seevi-lab
-subtitle: Computer vision for provenance, integrity, and perception
+subtitle: Sensing Evidence and Visual Intelligence
 description: The SeeVi Lab at Colorado State University, led by Dr. Aparna Bharati, develops computer vision methods to analyze, verify, and interpret visual information.
 header: images/background.jpg
 footer: images/background.jpg
@@ -9,8 +9,8 @@ proofer: false
 # site social media and other links
 links:
   email: aparna.bharati@colostate.edu
-  # TODO: these were template defaults belonging to the template author - replace with Aparna's real IDs
-  # orcid: 0000-0001-8713-9213
+  linkedin: abharati
+  # TODO: template default, replace with Aparna's real Scholar ID
   # google-scholar: ETJoidYAAAAJ
   github: aparnabharati
   twitter: aparnabharati

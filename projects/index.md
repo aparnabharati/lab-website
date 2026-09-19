@@ -1,28 +1,18 @@
 ---
 title: Projects
-# hidden from nav for v1 - restore the nav block below when real projects are ready
-# nav:
-#   order: 2
-#   tooltip: Software, datasets, and more
+nav:
+  order: 2
+  tooltip: Research themes
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-diagram-project" %}Research Themes
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
+Our work spans several connected questions about visual information: where it came from, whether it can be trusted, how people perceive it, and how machines can be taught to reason about it the way people do.
 
 {% include section.html %}
 
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html data="projects" component="card" filter="group == 'featured'" style="rich" %}
 
 {% include section.html %}
 
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html data="projects" component="card" filter="!group" %}
