@@ -264,7 +264,7 @@
   - Aparna Bharati
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
     Recognition (CVPR)
-  date: '2025-09-18'
+  date: '2026-06-01'
   link: https://arxiv.org/abs/2509.13711
   plugin: sources.py
   file: sources.yaml
@@ -279,5 +279,23 @@
   - type: paper
     text: OpenReview PDF
     link: https://openreview.net/pdf?id=mRCXybDMF6
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Shades of Generalization: Diversity Aware Open Set Deepfake Detection'
+  authors:
+  - Swetcha Reddy Tukkani
+  - Aparna Bharati
+  publisher: 2026 IEEE 20th International Conference on Automatic Face and Gesture
+    Recognition (FG)
+  date: '2026-05-01'
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Right Looks, Wrong Reasons: Compositional Fidelity in Text-to-Image Generation'
+  authors:
+  - Mayank Vatsa
+  - Aparna Bharati
+  - Richa Singh
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2026-03-01'
   plugin: sources.py
   file: sources.yaml
