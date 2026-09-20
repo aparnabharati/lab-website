@@ -222,6 +222,11 @@
   publisher: 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   date: '2025-02-26'
   link: https://doi.org/g92w29
+  buttons:
+  - type: source
+    text: Code
+    link: https://github.com/jaisidhsingh/CoN-CLIP
+  image: images/paper-negations.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/icip55913.2025.11084494
