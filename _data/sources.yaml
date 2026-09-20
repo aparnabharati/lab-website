@@ -9,6 +9,10 @@
 - id: doi:10.1093/micmic/ozad067.359
 - id: arxiv:2309.15381
   image: images/paper-face-transform.jpg
+  buttons:
+    - type: source
+      text: Code
+      link: https://github.com/CV-Lehigh/subjective_face_transform
 - id: doi:10.1109/wacv57701.2024.00468
 - id: doi:10.1109/ICIP51287.2024.10648063
   image: images/paper-saliency-bias.jpg
@@ -35,6 +39,10 @@
 
 - id: doi:10.1109/WACV61042.2026.00058
   image: images/paper-vlm-biases.jpg
+  buttons:
+    - type: source
+      text: Code
+      link: https://github.com/CV-Lehigh/humanlike-face-impressions-in-vlms
   title: Understanding Human-Like Biases in VLMs via Subjective Face Analytics
   authors:
     - Chaitanya Roygaga
@@ -42,13 +50,18 @@
   publisher: 2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
 
 - id: arxiv:2509.13711
-  # Manubot returns the arXiv submission date (2025-09-18); this is CVPR 2026
-  date: '2026-06-01'   # TODO confirm exact date
+  # Manubot returns the arXiv submission date (2025-09-18); this is CVPR 2026,
+  # which ran June 3-7 2026 per the conference poster
+  date: '2026-06-03'
+  image: images/paper-styleprotect.jpg
   title: 'StyleProtect: Safeguarding Artistic Identity in Finetuned Diffusion Models'
   buttons:
     - type: website
       text: Project Page
       link: https://cv-lehigh.github.io/StyleProtect/
+    - type: source
+      text: Code
+      link: https://github.com/CV-Lehigh/StyleProtect
   authors:
     - Qiuyu Tang
     - Joshua Krinsky

@@ -68,6 +68,15 @@ a.timeline-title:hover {
   color: var(--text);
 }
 
+.timeline-description {
+  grid-column: 3;
+  grid-row: 2;
+  margin: 4px 0 0 0;
+  color: var(--gray);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
 .timeline-more {
   margin-top: 40px;
   text-align: center;
@@ -90,7 +99,7 @@ a.timeline-title:hover {
   }
 
   .timeline-dot {
-    grid-row: 1 / span 2;
+    grid-row: 1 / -1;
     align-self: start;
     margin-top: 5px;
   }
@@ -99,5 +108,10 @@ a.timeline-title:hover {
   p.timeline-title {
     grid-column: 2;
     grid-row: 2;
+  }
+
+  .timeline-description {
+    grid-column: 2;
+    grid-row: 3;
   }
 }

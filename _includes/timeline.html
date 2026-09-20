@@ -15,6 +15,9 @@
       {% else %}
         <p class="timeline-title">{{ item.title }}</p>
       {% endif %}
+      {% if item.description %}
+        <p class="timeline-description">{{ item.description | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      {% endif %}
     </div>
   {% endfor %}
 </div>

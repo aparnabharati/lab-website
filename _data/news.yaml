@@ -1,20 +1,50 @@
-# recent lab news, shown in reverse-chronological order
-# add new entries here as they happen; "link" is optional
+# Recent lab news, shown newest first.
+# Fields: date (required), title (required), description (optional), link (optional).
 
 - date: '2026-08-01'
-  title: "SeeVi Lab is moving to Colorado State University"
+  title: "The lab moves to Colorado State University"
+  description: >
+    SeeVi relocates from Lehigh to the Department of Computer Science at
+    Colorado State University in Fort Collins, where the lab continues its work
+    on provenance, media integrity, and visual perception.
+
+- date: '2026-06-03'
+  title: "StyleProtect presented at CVPR 2026"
+  description: >
+    Qiuyu Tang presented StyleProtect in Denver. The method perturbs only the
+    cross-attention layers that carry style rather than the whole model, letting
+    artists resist style mimicry from finetuned diffusion models at lower cost.
+  link: https://cv-lehigh.github.io/StyleProtect/
+
+- date: '2026-03-06'
+  title: "Work on human-like biases in vision-language models accepted to WACV 2026"
+  description: >
+    Chaitanya Roygaga's paper asks whether vision-language models reproduce the
+    snap judgements people make about faces, probing them with generated captions
+    instead of fixed templates.
+  link: https://doi.org/10.1109/WACV61042.2026.00058
 
 - date: '2026-02-28'
-  title: "SeeVi Lab organizes the VALED workshop at WACV 2026"
+  title: "The lab helps organize the VALED workshop at WACV 2026"
+  link: https://aparnabharati.github.io/valed-workshop-2026/
 
 - date: '2025-09-14'
-  title: "Our paper on perturbation-based image protection is accepted to ICIP 2025"
+  title: "Paper on perturbation-based image protection accepted to ICIP 2025"
+  description: >
+    Led by Qiuyu Tang, the paper examines whether perturbation-based protections
+    actually prevent image editing or simply degrade the result.
   link: https://doi.org/g92w3b
 
 - date: '2025-06-17'
-  title: "Our paper on neural compression of scientific images is accepted to the ACM IH&MMSec Workshop"
+  title: "Paper on neural compression of scientific images accepted to ACM IH&MMSec"
+  description: >
+    Joint work with collaborators studying what learned compression does to
+    scientific imagery, and to the models that later analyse it.
   link: https://doi.org/g92wpf
 
 - date: '2025-02-26'
-  title: "Our paper on foundation models with negations is accepted to WACV 2025"
+  title: "Paper on foundation models with negations accepted to WACV 2025"
+  description: >
+    Part of a line of work on why vision-language models handle affirmation well
+    and negation poorly.
   link: https://doi.org/g92w29
