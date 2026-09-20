@@ -234,10 +234,14 @@
   publisher: 2025 IEEE International Conference on Image Processing (ICIP)
   date: '2025-09-14'
   link: https://doi.org/g92w3b
+  image: images/paper-perturb2protect.jpg
   buttons:
   - type: source
     text: Code
     link: https://github.com/CV-Lehigh/perturb2protect-disruptive-or-helpful
+  - type: paper
+    text: Supplement
+    link: https://dx.doi.org/10.60864/8fp1-q828
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3733102.3733148
