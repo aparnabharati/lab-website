@@ -31,8 +31,16 @@
 - id: arxiv:2502.09645
 - id: doi:10.1109/WACV61041.2025.00777
 - id: doi:10.1109/icip55913.2025.11084494
+  buttons:
+    - type: source
+      text: Code
+      link: https://github.com/CV-Lehigh/perturb2protect-disruptive-or-helpful
 - id: doi:10.1145/3733102.3733148
   image: images/paper-neural-compression.jpg
+  buttons:
+    - type: source
+      text: Code
+      link: https://github.com/phillipecardenuto/neural-comp-sciint
 
 # Manual title/authors/publisher are kept as overrides even where an id exists,
 # so the entry survives a failed Manubot fetch (see the blanked ICIP entry).
@@ -69,11 +77,13 @@
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 
 - title: Watermarks vs. Perturbations for Preventing AI-Based Style Editing
+  image: images/paper-watermarks-perturbations.jpg
   authors:
     - Qiuyu Tang
     - Aparna Bharati
-  publisher: The 1st Workshop on GenAI Watermarking
-  date: '2025-01-01'   # TODO confirm exact date
+  # poster header reads "WMARK@ICLR2025"; ICLR 2025 ran 24-28 April
+  publisher: The 1st Workshop on GenAI Watermarking (WMARK) at ICLR 2025
+  date: '2025-04-24'   # TODO confirm exact date
   # no DOI - linked directly to the OpenReview PDF instead
   link: https://openreview.net/pdf?id=mRCXybDMF6
   buttons:
@@ -81,17 +91,17 @@
       text: OpenReview PDF
       link: https://openreview.net/pdf?id=mRCXybDMF6
 
-- title: 'Shades of Generalization: Diversity Aware Open Set Deepfake Detection'
+- id: doi:10.1109/FG67764.2026.11557037
+  title: 'Shades of Generalization: Diversity Aware Open Set Deepfake Detection'
   authors:
     - Swetcha Reddy Tukkani
     - Aparna Bharati
   publisher: 2026 IEEE 20th International Conference on Automatic Face and Gesture Recognition (FG)
-  date: '2026-05-01'   # TODO confirm exact date
 
-- title: 'Right Looks, Wrong Reasons: Compositional Fidelity in Text-to-Image Generation'
+- id: doi:10.1609/aaai.v40i46.41337
+  title: 'Right Looks, Wrong Reasons: Compositional Fidelity in Text-to-Image Generation'
   authors:
     - Mayank Vatsa
     - Aparna Bharati
     - Richa Singh
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
-  date: '2026-03-01'   # TODO confirm exact date
