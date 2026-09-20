@@ -4,7 +4,7 @@
 
 - title: Provenance and Attribution
   group: featured
-  image: images/photo.jpg   # TODO: no representative figure yet
+  image: images/fallback.svg   # TODO: no representative figure yet
   link: research
 
 - title: Asset Protection
@@ -22,7 +22,7 @@
   link: research
 
 - title: Remote Physiological Sensing
-  image: images/photo.jpg   # TODO: no representative figure yet
+  image: images/fallback.svg   # TODO: no representative figure yet
   link: research
 
 - title: Reasoning in Vision-Language Models
