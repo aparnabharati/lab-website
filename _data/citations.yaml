@@ -141,6 +141,10 @@
   date: '2025-03-19'
   link: https://arxiv.org/abs/2309.15381
   image: images/paper-face-transform.jpg
+  buttons:
+  - type: source
+    text: Code
+    link: https://github.com/CV-Lehigh/subjective_face_transform
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/wacv57701.2024.00468
@@ -256,6 +260,10 @@
   date: '2026-03-06'
   link: https://doi.org/hcjr9r
   image: images/paper-vlm-biases.jpg
+  buttons:
+  - type: source
+    text: Code
+    link: https://github.com/CV-Lehigh/humanlike-face-impressions-in-vlms
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2509.13711
@@ -266,12 +274,16 @@
   - Aparna Bharati
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
     Recognition (CVPR)
-  date: '2026-06-01'
+  date: '2026-06-03'
   link: https://arxiv.org/abs/2509.13711
+  image: images/paper-styleprotect.jpg
   buttons:
   - type: website
     text: Project Page
     link: https://cv-lehigh.github.io/StyleProtect/
+  - type: source
+    text: Code
+    link: https://github.com/CV-Lehigh/StyleProtect
   plugin: sources.py
   file: sources.yaml
 - title: Watermarks vs. Perturbations for Preventing AI-Based Style Editing
