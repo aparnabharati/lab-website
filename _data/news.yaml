@@ -26,6 +26,11 @@
 
 - date: '2026-02-28'
   title: "The lab helps organize the VALED workshop at WACV 2026"
+  description: >
+    VALED — Visual Art, Generative AI, and the Legal/Ethical Dilemma — brings
+    together researchers, artists, legal scholars, and industry practitioners to
+    examine style mimicry, dataset auditing, provenance, and the copyright
+    questions raised by text-to-image generation.
   link: https://aparnabharati.github.io/valed-workshop-2026/
 
 - date: '2025-09-14'

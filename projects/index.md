@@ -11,8 +11,4 @@ Our work spans several connected questions about visual information: where it ca
 
 {% include section.html %}
 
-{% include list.html data="projects" component="card" filter="group == 'featured'" style="rich" %}
-
-{% include section.html %}
-
-{% include list.html data="projects" component="card" filter="!group" %}
+{% include list.html data="projects" component="card" style="row" %}

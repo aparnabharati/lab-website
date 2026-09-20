@@ -31,10 +31,14 @@
 - id: arxiv:2502.09645
 - id: doi:10.1109/WACV61041.2025.00777
 - id: doi:10.1109/icip55913.2025.11084494
+  image: images/paper-perturb2protect.jpg
   buttons:
     - type: source
       text: Code
       link: https://github.com/CV-Lehigh/perturb2protect-disruptive-or-helpful
+    - type: paper
+      text: Supplement
+      link: https://dx.doi.org/10.60864/8fp1-q828
 - id: doi:10.1145/3733102.3733148
   image: images/paper-neural-compression.jpg
   buttons:
