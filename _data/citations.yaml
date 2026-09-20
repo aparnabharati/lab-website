@@ -174,19 +174,6 @@
   image: images/paper-saliency-bias.jpg
   plugin: sources.py
   file: sources.yaml
-- id: arxiv:2403.20312
-  title: 'Learn "No" to Say "Yes" Better: Improving Vision-Language Models via Negations'
-  authors:
-  - Jaisidh Singh
-  - Ishaan Shrivastava
-  - Mayank Vatsa
-  - Richa Singh
-  - Aparna Bharati
-  publisher: arXiv
-  date: '2025-03-13'
-  link: https://arxiv.org/abs/2403.20312
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/IJCB62174.2024.10744512
   title: A Relative Data Diversity Measure for Synthetic Face Images
   authors:
