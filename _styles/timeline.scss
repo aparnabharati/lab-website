@@ -30,6 +30,8 @@ $row-gap: 28px;
   column-gap: $col-gap;
   align-items: center;
   padding-bottom: $row-gap;
+  /* body is centred globally; the date column overrides back to right */
+  text-align: left;
 }
 
 .timeline-row:last-child {
@@ -62,6 +64,10 @@ p.timeline-title {
   font-size: var(--large);
   color: var(--primary);
   text-decoration: none;
+  /* body sets text-align: center globally, and p is overridden to justify -
+     so a linked <a> headline centred while an unlinked <p> one did not.
+     Pin both left so headline and description share an edge. */
+  text-align: left;
 }
 
 a.timeline-title:hover {
@@ -75,6 +81,8 @@ a.timeline-title:hover {
   color: var(--gray);
   font-size: 0.95rem;
   line-height: 1.5;
+  /* p defaults to justify, which strings out word spacing in a narrow column */
+  text-align: left;
 }
 
 .timeline-more {
