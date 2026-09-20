@@ -33,12 +33,15 @@
 .card[data-style="row"] .card-image {
   flex-shrink: 0;
   width: 220px;
+  min-height: 120px;
+  background: var(--light-gray);
 }
 
 .card[data-style="row"] .card-image img {
   height: 100%;
   aspect-ratio: auto;
-  object-fit: cover;
+  /* figures are wide diagrams - contain, not cover, or they crop to a strip */
+  object-fit: contain;
 }
 
 .card[data-style="row"] .card-text {
@@ -58,6 +61,7 @@
 
   .card[data-style="row"] .card-image img {
     aspect-ratio: 3 / 2;
+    object-fit: contain;
   }
 }
 

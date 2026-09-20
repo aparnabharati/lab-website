@@ -30,6 +30,15 @@
 - id: doi:10.1109/IJCB62174.2024.10744512
 - id: arxiv:2502.09645
 - id: doi:10.1109/WACV61041.2025.00777
+  buttons:
+    - type: source
+      text: Code
+      link: https://github.com/jaisidhsingh/CoN-CLIP
+  image: images/paper-negations.jpg
+  buttons:
+    - type: source
+      text: Code
+      link: https://github.com/jaisidhsingh/CoN-CLIP
 - id: doi:10.1109/icip55913.2025.11084494
   image: images/paper-perturb2protect.jpg
   buttons:
