@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<!--
+  project (sub-theme) page:
+  - title from page.title, optional icon from page.icon
+  - page body is the description
+  - page.papers: list of citation lookups (id or part of title)
+-->
+
+<h1>
+  {% include icon.html icon=page.icon %}{{ page.title }}
+</h1>
+
+{{ content }}
+
+{% if page.papers.size > 0 %}
+  {% include section.html %}
+
+  <h2 id="publications">Publications</h2>
+
+  {% for paper in page.papers %}
+    {% include citation.html lookup=paper style="rich" %}
+  {% endfor %}
+{% endif %}
+
+{% include section.html %}
+
+<p class="center">
+  {%
+    include button.html
+    link="projects"
+    text="All projects"
+    icon="fa-solid fa-arrow-left"
+    style="bare"
+  %}
+</p>
