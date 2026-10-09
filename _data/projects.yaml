@@ -1,30 +1,31 @@
 # Research themes of the SeeVi Lab.
 # Titles only - descriptions intentionally omitted.
 # Images are reused from representative papers; themes marked TODO still need one.
+# Each theme links to its own page in projects/ (layout: project).
 
 - title: Provenance and Attribution
   group: featured
   image: images/fallback.svg   # TODO: no representative figure yet
-  link: research
+  link: projects/provenance-and-attribution
 
 - title: Asset Protection
   group: featured
   image: images/paper-styleprotect.jpg
   link: projects/asset-protection
 
-- title: Subjective Visual Perception
+- title: Reasoning in Vision-Language Models
   group: featured
+  image: images/paper-negations.jpg
+  link: projects/reasoning-in-vlms
+
+- title: Subjective Visual Perception
   image: images/paper-vlm-biases.jpg
-  link: research
+  link: projects/subjective-visual-perception
 
 - title: Bias and Explainability in Image Forensics
   image: images/paper-saliency-bias.jpg
-  link: research
+  link: projects/bias-and-explainability
 
 - title: Remote Physiological Sensing
   image: images/fallback.svg   # TODO: no representative figure yet
-  link: research
-
-- title: Reasoning in Vision-Language Models
-  image: images/paper-negations.jpg
-  link: research
+  link: projects/remote-physiological-sensing

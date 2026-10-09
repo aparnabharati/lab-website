@@ -49,3 +49,5 @@ and set `group: masters` on the relevant files in _members/.
 
 - Simon Chen
 - Swetcha Reddy Tukkani
+- Cancan Zhang
+- Eiko Nakajima
