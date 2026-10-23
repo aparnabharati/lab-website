@@ -8,7 +8,14 @@
     data-dark="{{ dark }}"
   {% endif %}
   data-size="wide"
+  {% if site.particles %}
+    data-particles
+  {% endif %}
 >
+  {% if site.particles %}
+    <div class="particles" id="footer-particles" aria-hidden="true"></div>
+  {% endif %}
+
   <!--
     <div>
       Extra details like contact info or address

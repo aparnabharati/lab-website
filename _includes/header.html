@@ -15,7 +15,14 @@
   {% if page.url == "/" %}
     data-big
   {% endif %}
+  {% if site.particles %}
+    data-particles
+  {% endif %}
 >
+  {% if site.particles %}
+    <div class="particles" id="header-particles" aria-hidden="true"></div>
+  {% endif %}
+
   <a href="{{ "/" | relative_url }}" class="home">
     {% if logo %}
       <span class="logo">
