@@ -60,6 +60,20 @@ header a {
 
 .title {
   font-size: var(--large);
+  font-weight: var(--bold);
+  letter-spacing: 0.02em;
+}
+
+.title-vi {
+  background: linear-gradient(90deg, #3b82f6, #22c55e);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.title-lab {
+  font-weight: var(--thin);
+  opacity: 0.85;
 }
 
 .subtitle {
