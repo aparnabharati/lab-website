@@ -16,13 +16,13 @@
         color: { value: ["#2563eb", "#22c55e", "#3b82f6", "#ef4444"] },
         shape: { type: "edge" },  // square, echoing the pixel V
         opacity: { value: 0.9 },
-        size: { value: 3.5, random: true },
+        size: { value: 5, random: true },
         line_linked: {
           enable: true,
           distance: 120,
           color: "#3b82f6",
           opacity: 0.45,
-          width: 0.8,
+          width: 1,
         },
         move: { enable: !still, speed: 1.2 },
       },
