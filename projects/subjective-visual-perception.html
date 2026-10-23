@@ -380,6 +380,9 @@
 <script src="https://unpkg.com/tippy.js@6" defer></script>
 <script src="https://unpkg.com/mark.js@8" defer></script>
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js" defer></script>
+
+
 <!-- include all js in scripts folder -->
 
 
@@ -388,6 +391,8 @@
   <script src="/_scripts/dark-mode.js"></script>
 
   <script src="/_scripts/fetch-tags.js"></script>
+
+  <script src="/_scripts/particles.js"></script>
 
   <script src="/_scripts/search.js"></script>
 
@@ -409,7 +414,11 @@
 
 
 
-<header class="background" style="--image: url('/images/background.jpg')" data-dark="true">
+<header class="background" style="--image: url('/images/background.jpg')" data-dark="true" data-particles>
+  
+    <div class="particles" id="header-particles" aria-hidden="true"></div>
+  
+
   <a href="/" class="home">
     
       <span class="logo">
@@ -684,7 +693,11 @@
     
 
 
-<footer class="background" style="--image: url('/images/background.jpg')" data-dark="true" data-size="wide">
+<footer class="background" style="--image: url('/images/background.jpg')" data-dark="true" data-size="wide" data-particles>
+  
+    <div class="particles" id="footer-particles" aria-hidden="true"></div>
+  
+
   <!--
     <div>
       Extra details like contact info or address

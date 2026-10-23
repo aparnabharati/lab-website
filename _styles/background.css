@@ -17,4 +17,19 @@
   z-index: -1;
 }
 
+.background[data-particles] {
+  background: #0f172a;
+}
+
+.background[data-particles]:before {
+  display: none;
+}
+
+.particles {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+}
+
 /*# sourceMappingURL=background.css.map */
